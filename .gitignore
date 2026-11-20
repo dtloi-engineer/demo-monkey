@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+*.token
+hf_token*
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# generated output
+out/
+
+# blender backups
+*.blend1
+*.blend2
+
+# OS
+.DS_Store
+Thumbs.db
